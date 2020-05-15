@@ -11,7 +11,7 @@ public class BilanganPembagiTerkecil {
 
         for (int  n=3 ; n < bilangan; n++) {
             if (bilangan % n == 0){
-                System.out.println(n);
+                System.out.println("Bilangan Pembagi Terkecil adalah :  " + n);
                 break;
 
             }
