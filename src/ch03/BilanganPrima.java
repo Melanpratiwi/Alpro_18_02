@@ -3,7 +3,7 @@ package ch03;
 import javax.swing.*;
 import java.util.Scanner;
 public class BilanganPrima {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         int temp;
         boolean prima = true;
         Scanner Prima = new Scanner(System.in);
